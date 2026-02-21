@@ -12,6 +12,12 @@ Minimal, fast and open source power-user web navigator.
 ## Target Sites
 
 - YouTube
+- ChatGPT
+- Gemini
+- Claude
+- Linkedin
+- Amazon
+- Gitlab
 - Reddit
 - GitHub
 - X (Twitter)
